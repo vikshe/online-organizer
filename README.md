@@ -3,4 +3,4 @@ online-organizer
 
 Online organizer
 
-@Authour: Viktor Shesternyak
+@Author: Viktor Shesternyak
